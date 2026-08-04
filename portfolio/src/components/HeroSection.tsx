@@ -83,7 +83,7 @@ export default function HeroSection() {
                 <ArrowDown className="w-4 h-4" />
               </a>
               <a
-                href="/Prabhat_Kumar_DataAnalyst.pdf"
+                href="./Prabhat_Kumar_DataAnalyst.pdf"
                 download
                 className="inline-flex items-center gap-2 px-6 py-3 bg-white text-navy font-medium rounded-xl border border-border hover:border-blue/30 hover:bg-blue/5 transition-all hover:-translate-y-0.5"
               >
@@ -116,7 +116,7 @@ export default function HeroSection() {
             <div className="relative mb-8">
               <div className="w-56 h-56 sm:w-64 sm:h-64 rounded-full overflow-hidden border-4 border-white shadow-2xl shadow-blue/10 relative z-10">
                 <Image
-                  src="/profile.jpg"
+                  src="./profile.jpg"
                   alt="Prabhat Kumar — Data Analyst"
                   width={256}
                   height={256}

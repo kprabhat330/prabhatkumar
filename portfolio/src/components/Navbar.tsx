@@ -63,7 +63,7 @@ export default function Navbar() {
           {/* CTA + Mobile Toggle */}
           <div className="flex items-center gap-3">
             <a
-              href="/Prabhat_Kumar_DataAnalyst.pdf"
+              href="./Prabhat_Kumar_DataAnalyst.pdf"
               download
               className="hidden sm:inline-flex items-center gap-2 px-4 py-2 bg-blue text-white text-sm font-medium rounded-lg hover:bg-blue-light transition-colors shadow-md shadow-blue/20 hover:shadow-lg hover:shadow-blue/30"
             >
@@ -103,7 +103,7 @@ export default function Navbar() {
                 </a>
               ))}
               <a
-                href="/Prabhat_Kumar_DataAnalyst.pdf"
+                href="./Prabhat_Kumar_DataAnalyst.pdf"
                 download
                 className="flex items-center gap-2 px-4 py-2.5 mt-2 bg-blue text-white text-sm font-medium rounded-lg hover:bg-blue-light transition-colors"
               >

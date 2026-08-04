@@ -209,7 +209,7 @@ export default function ExperienceTimeline() {
         {/* Download Resume Secondary CTA */}
         <div className="mt-14 text-center">
           <a
-            href="/Prabhat_Kumar_DataAnalyst.pdf"
+            href="./Prabhat_Kumar_DataAnalyst.pdf"
             download
             className="inline-flex items-center gap-2 px-6 py-3 bg-navy text-white font-medium rounded-xl hover:bg-slate-dark transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5"
           >
